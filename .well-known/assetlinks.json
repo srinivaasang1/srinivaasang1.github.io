@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siniganesan.applinksample",
+    "sha256_cert_fingerprints":
+    ["71:89:D4:3A:48:98:8A:5D:55:34:20:8F:CE:56:27:AE:6C:95:86:0D:51:58:53:DB:94:71:CB:2C:C9:84:38:FC"]
+  }
+}]
